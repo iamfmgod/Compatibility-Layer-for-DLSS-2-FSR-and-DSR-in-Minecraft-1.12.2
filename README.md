@@ -21,10 +21,6 @@ Bring modern GPU upscaling and frame generation to legacy Minecraft.
 
 
 🚀 Installation
-- Clone the repo:
-git clone https://github.com/yourname/compatlayer-mod.git
-- Build the mod:
-./gradlew build
 - Drop the .jar into your mods/ folder.
 - Ensure Vulkan drivers and NGX/FSR SDKs are installed.
 
