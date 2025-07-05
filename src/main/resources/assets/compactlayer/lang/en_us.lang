@@ -1,0 +1,30 @@
+# Mod Info
+mod.compatlayer.name=CompatLayer
+mod.compatlayer.description=Cross-GPU upscaling support for Minecraft (DLSS, FSR, DSR)
+
+# Keybinds
+key.compatlayer.toggle_upscaler=Toggle Upscaler
+key.compatlayer.toggle_hud=Toggle HUD Overlay
+
+# GUI - DLSS Config
+gui.compatlayer.title=Upscaler Settings
+gui.compatlayer.quality=Quality Mode
+gui.compatlayer.scale=Render Scale
+gui.compatlayer.apply=Apply
+gui.compatlayer.reset=Reset
+gui.compatlayer.enabled=Enabled
+gui.compatlayer.disabled=Disabled
+gui.compatlayer.mode.dlss=DLSS
+gui.compatlayer.mode.fsr=FSR2
+gui.compatlayer.mode.dsr=DSR
+gui.compatlayer.mode.auto=Auto
+
+# HUD Overlay
+hud.compatlayer.label=Upscaler
+hud.compatlayer.frametime=Frame Time
+hud.compatlayer.fps=FPS
+
+# Tooltips
+tooltip.compatlayer.quality=Select DLSS/FSR quality preset
+tooltip.compatlayer.scale=Adjust internal render resolution
+tooltip.compatlayer.toggle=Enable or disable the upscaler

@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "regenenhancer",
+    "name": "Regen Enhancer",
+    "description": "Ties natural health regeneration to sleeping; adds early-game healing items and new regen potions.",
+    "version": "1.0.0",
+    "authors": ["YourName"],
+    "credits": "",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
