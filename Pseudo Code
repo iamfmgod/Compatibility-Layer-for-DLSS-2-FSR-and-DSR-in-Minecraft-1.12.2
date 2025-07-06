@@ -229,5 +229,3 @@ class PerformanceLogger {
 | Real-time switching | ✅ Fully dynamic |
 
 ---
-
-Would you like me to bundle this into a GitHub-style README template next, or generate a Forge mod info file (`mcmod.info`) for packaging?
