@@ -1,7 +1,7 @@
 
 ---
 
-## 📦 Regen Enhancer: Compatibility Layer for DLSS 2, FSR, and DSR in Minecraft 1.12.2
+## 📦 Compatibility Layer for DLSS 2, FSR, and DSR in Minecraft 1.12.2
 
 Bring modern GPU upscaling and frame generation to legacy Minecraft.
 
